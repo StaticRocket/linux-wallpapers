@@ -7,24 +7,21 @@ Do whatever you want with these. Just do *try* to not to be evil.
 ## Landscape
 
 #### Arch
-![Arch-1](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Arch/1-3840x2160.png?raw=true)
-![Arch-2](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Arch/2-3840x2160.png?raw=true)
+![Arch-1](./Arch/1.svg)
+![Arch-2](./Arch/2.svg)
 
 #### Debian
-![Debian-1](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Debian/1-3840x2160.png?raw=true)
+![Debian-1](./Debian/1.svg)
 
 #### Solus
-![Solus-1](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Solus/1-3840x2160.png?raw=true)
+![Solus-1](./Solus/1.svg)
 
 #### Void
-![Void-1](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Void/1-3840x2160.png?raw=true)
+![Void-1](./Void/1.svg)
 
 ---
 
 ## Portrait
 
 #### Debian
-![Debian-1p](https://github.com/StaticRocket/Linux-Wallpapers/blob/master/Debian/1p-2160x3840.png?raw=true)
-
----
-###### (If you feel like contributing please follow the general material theme and naming scheme.)
+![Debian-1p](./Debian/1p.svg)
